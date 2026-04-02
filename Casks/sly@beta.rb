@@ -8,8 +8,8 @@ cask "sly@beta" do
   homepage "https://github.com/waynevernon/sly"
 
   auto_updates true
-  depends_on macos: ">= :catalina"
   conflicts_with cask: "sly"
+  depends_on macos: ">= :catalina"
 
   app "Sly.app"
 end
