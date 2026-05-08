@@ -1,6 +1,6 @@
 cask "sly@beta" do
-  version "1.6.4"
-  sha256 "416aef76892cf37f45faea7eda6b58550c3cb4ac8148663ee05afa4ae834b34a"
+  version "1.6.5"
+  sha256 "1bf09b70d586dda269e1daa2977c474a67beef84935ead47e9c4c64d7a2a6712"
 
   url "https://github.com/waynevernon/sly/releases/download/v#{version}/Sly_#{version}_universal.dmg"
   name "Sly"
